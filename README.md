@@ -19,3 +19,5 @@ Python 3.7.6 was used to run this analysis along with Anaconda 4.9.2, Jupyter No
   
 ## Surf's Up Summary
 In order to gather more data for the months of June and December two histograms were produced. 
+  ![Dec_Hist.png](https://github.com/italiacardenas/surfs_up/blob/a078848dc951c8de3fdee1bb8a1195556876cc38/Resources/Dec_Hist.png)
+  ![June_Hist.png](https://github.com/italiacardenas/surfs_up/blob/a078848dc951c8de3fdee1bb8a1195556876cc38/Resources/June_Hist.png)
